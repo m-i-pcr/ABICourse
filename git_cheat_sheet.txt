@@ -1,0 +1,8 @@
+add:
+Add file contents to the index
+status:
+Show the working tree status
+commit:
+Record changes to the repository
+push:
+Update remote refs along with associated objects
